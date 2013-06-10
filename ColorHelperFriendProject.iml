@@ -4,13 +4,17 @@
     <facet type="android-gradle" name="Android-Gradle">
       <configuration>
         <option name="GRADLE_PROJECT_PATH" value=":" />
-        <option name="PROJECT_ABSOLUTE_PATH" value="C:\Users\hgentry\AndroidStudioProjects\ColorHelperFriendProject" />
+        <option name="PROJECT_ABSOLUTE_PATH" value="C:\dev\colorhelperfriend" />
         <option name="GRADLE_HOME_DIR_PATH" />
       </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
+    <content url="file://$USER_HOME$/AndroidStudioProjects/ColorHelperFriendProject">
+      <excludeFolder url="file://$USER_HOME$/AndroidStudioProjects/ColorHelperFriendProject/.gradle" />
+      <excludeFolder url="file://$USER_HOME$/AndroidStudioProjects/ColorHelperFriendProject/build" />
+    </content>
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/build" />
